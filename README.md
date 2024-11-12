@@ -4,12 +4,12 @@ TaskMaster é um aplicativo abrangente de gerenciamento de tarefas criado com Re
 
 # **📌 Índice** 
 
--Motivação
--Objetivo
--Características
--Capturas de tela
--Começando​
--Instalação
--Uso
--Contribuindo
--Licença
+- Motivação
+- Objetivo
+- Características
+- Capturas de tela
+- Começando​
+- Instalação
+- Uso
+- Contribuindo
+- Licença
